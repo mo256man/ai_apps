@@ -1,0 +1,15 @@
+sample_audio_classification.py			音声識別　デフォでは百人一首
+sample_face_detection.py			顔の矩形と両目、両耳、鼻、口を表示
+sample_face_landmark_detection.py		眉と目と口が線になっている　顔がグリッド
+sample_face_stylization.py			顔のスタイル変換
+sample_hand_gesture_recognition.py		手のジェスチャー認識　片手のみ？　ジェスチャー7種類
+sample_hand_landmarks_detection.py		手の認識　両手可　初期状態は左右反転状態
+sample_image_classification.py			画像識別　上位5個が表示される仕様
+sample_image_embedding.py			二つの画像の類似度
+sample_image_segmentation.py			画像セグメンテーション
+sample_interactive_image_segmentation.py	インタラクティブセグメンテーション マウスで指した図形がセグメンテーションされる　デフォだと既存の画像
+sample_object_detection.py			物体検出 対象はcatやcarなど 室内のモノは多くない
+sample_pose_landmark_detection.py		姿勢推定　骨格＋両目＋鼻＋口の両端など　手は簡易
+sample_text_classification.py			テキスト分類　デフォでは I'm looking forward to what will come next.
+sample_text_embedding.py			テキスト類似度　デフォでは I'm feeling so good と I'm okay I guess 
+sample_text_language_detection.py		言語検出　デフォでは 分久必合合久必分
