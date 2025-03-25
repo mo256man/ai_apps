@@ -1,0 +1,10 @@
+opencv-python
+opencv-contrib-python
+pillow
+matplotlib
+Pandas
+TkEasyGUI
+Flask
+mediapipe
+pymcprotocol
+pyzbar
